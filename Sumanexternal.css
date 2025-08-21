@@ -1,0 +1,13 @@
+p {
+    border : 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+    color:#34495e;
+}
+body {
+    font-family: Courier;
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    color:#2c3e50;
+}

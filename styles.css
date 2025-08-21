@@ -1,0 +1,72 @@
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #4792fa;
+}
+
+/* Header Styling */
+header {
+    background: #333;
+    color: rgb(240, 13, 13);
+    padding: 20px;
+}
+
+/* Navigation Menu Styling */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+/* Section Styling */
+section {
+    margin: 20px;
+    padding: 20px;
+    background: rgb(19, 19, 190);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+form button {
+    margin-top: 10px;
+    padding: 10px;
+    background: #333;
+    color: rgb(21, 162, 244);
+    border: none;
+    cursor: pointer;
+}
+
+/* Footer Styling */
+footer {
+    background: #eee7e7;
+    color: rgb(253, 123, 30);
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}

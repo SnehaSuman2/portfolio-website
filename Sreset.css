@@ -1,0 +1,20 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{ font-family:
+Arial,sans-serif;
+line-height: 1.6;
+color: #17ec4c;
+background-color: #f8f9fa;
+}
+A
+{text-decoration:
+    none; color:inherit;
+}
+ul,ol
+{
+    list-style: none;
+}
